@@ -1,3 +1,3 @@
 # Fireworks
 
-Created animated fireworks using p5.JS library.
+Created animated fireworks using p5.js library.
